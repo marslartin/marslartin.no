@@ -1,5 +1,6 @@
 .temp {
 	background-color: #021b32;
 	max-height: 100vh;
+	max-width: 100vw;
 	overflow: hidden;
 }
