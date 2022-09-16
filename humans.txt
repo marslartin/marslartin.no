@@ -1,0 +1,16 @@
+/* AUTHOR */
+	Lars Martin Sandbakken
+	Contact: hei@marslartin.no
+	Twitter: @marslartin
+	From: Tromsø, Norway
+
+/* SITE */
+	Last update: 2022-09-10
+	Language: Norwegian
+	Doctype: HTML5
+	IDE: Affinity Designer, Github, Nova
+	
+/* THANKS */
+	Every Layout by Heydon Pickering and Andy Bell (https://every-layout.dev)
+	Utopia – Fluid responsive web design by James Gilyead and Trys Mudford (https://utopia.fyi)
+	
