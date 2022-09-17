@@ -1,6 +1,29 @@
+:root {
+}
+
 .temp {
 	background-color: #021b32;
 	height: 100vh;
 	width: 100vw;
 	overflow: clip;
+}
+
+a {
+  text-decoration: none;
+  position: relative;
+  color: var(--primær,#3366FF);
+}
+
+a:after {
+  content: '';
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 0%;
+  border-bottom: 2px solid var(--primær,#3366FF);
+  transition: 0.4s;
+}
+
+a:hover:after {
+  width: 100%;
 }
