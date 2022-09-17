@@ -6,7 +6,7 @@
 	height: 100vh;
 	width: 100vw;
 	overflow: clip;
-	padding: 0;
+	margin: 0;
 }
 
 a {
